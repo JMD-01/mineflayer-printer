@@ -1,0 +1,17 @@
+{
+    "Username": "Enzoh",
+    "ServerIP": "localhost",
+    "Range": 5,
+    "SchematicName": "data.json",
+    "blockDelay": 50,
+    "StartBox": {
+        "x": -199,
+        "y": 78,
+        "z": 5
+    },
+    "EndBox": {
+        "x": -209,
+        "y": 81,
+        "z": -5 
+    }
+}
