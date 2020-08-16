@@ -6,13 +6,13 @@
 [![Irc](https://img.shields.io/badge/chat-on%20irc-brightgreen.svg)](https://irc.gitter.im/)
 [![Try it on gitpod](https://img.shields.io/badge/try-on%20gitpod-brightgreen.svg)](https://gitpod.io/#https://github.com/PrismarineJS/prismarine-template)
 
-Prints in schematics/
+Prints in schematics
 https://www.youtube.com/watch?v=6V9y7jP36QA/
 
 
-Please contribute here or in mineflayer repo https://github.com/PrismarineJS/mineflayer \
+Please contribute here or in mineflayer repo https://github.com/PrismarineJS/mineflayer 
 
-To use disable bot lookat when placing in mineflayer\
+To use disable bot lookat when placing in mineflayer
 # todo
 Adding directional blocks support\
 Add flying to Path finder\
